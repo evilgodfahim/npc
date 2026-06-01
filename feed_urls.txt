@@ -5,8 +5,7 @@ https://evilgodfahim.github.io/jnp/editorial_news.xml
 https://evilgodfahim.github.io/kal/articles.xml
 https://evilgodfahim.github.io/kk/daily_kalerkantho_part2.xml
 https://evilgodfahim.github.io/kk/daily_kalerkantho_part1.xml
-https://politepaul.com/fd/BaUjoEn6s1Rx.xml
-https://politepaul.com/fd/cjcFELwr80sj.xml
+https://evilgodfahim.github.io/fep/feeds/feed.xml
 https://evilgodfahim.github.io/dnpbb/feed.xml
 https://evilgodfahim.github.io/ds/printversion.xml
 https://evilgodfahim.github.io/ep/daily_feed_2.xml
