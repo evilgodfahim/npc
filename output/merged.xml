@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:54:39 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[One World against Dengue: Warning and Way Forward]]></title>
+      <link>https://www.daily-sun.com/editorial/880218</link>
+      <pubDate>Sun, 14 Jun 2026 17:43:32 +0000</pubDate>
+      <description><![CDATA[One World against Dengue: Warning and Way Forward]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/editorial/880218</guid>
+    </item>
     <item>
       <title><![CDATA[Profs Anisur, Serajul join BOU as pro-VCs]]></title>
       <link>https://www.newagebd.net/post/education/302657/profs-anisur-serajul-join-bou-as-pro-vcs</link>
@@ -7058,13 +7065,6 @@
       <pubDate>Fri, 12 Jun 2026 12:47:00 +0000</pubDate>
       <description><![CDATA[Karmasangsthan Bank has received special recognition from the Bangladesh Bank for its contribution to employment creation through the Supporting Post Covid-19 Small Scale Employment Creation Project (SPCSSECP), funded by the Asian Development Bank and implemented under the supervision of the Bangladesh Bank......]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/mis/302415/bb-recognises-karmasangsthan-bank-for-job-creation</guid>
-    </item>
-    <item>
-      <title><![CDATA[IBFB marks 20th anniversary]]></title>
-      <link>https://www.newagebd.net/post/mis/302414/ibfb-marks-20th-anniversary</link>
-      <pubDate>Fri, 12 Jun 2026 12:46:00 +0000</pubDate>
-      <description><![CDATA[The International Business Forum of Bangladesh on Thursday marked its 20th anniversary at the Radisson Blu Water Garden Hotel in the capital, said a press release......]]></description>
-      <guid isPermaLink="false">https://www.newagebd.net/post/mis/302414/ibfb-marks-20th-anniversary</guid>
     </item>
   </channel>
 </rss>
