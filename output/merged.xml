@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Tue, 16 Jun 2026 13:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:14:02 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Destruction of economy through Yunus’s black law]]></title>
+      <link>https://www.daily-sun.com/front-page/879073</link>
+      <pubDate>Tue, 16 Jun 2026 17:32:58 +0000</pubDate>
+      <description><![CDATA[Destruction of economy through Yunus’s black law]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/front-page/879073</guid>
+    </item>
     <item>
       <title><![CDATA[Rains likely in parts of country as monsoon approaches]]></title>
       <link>https://www.newagebd.net/post/country/302895/rains-likely-in-parts-of-country-as-monsoon-approaches</link>
@@ -7069,13 +7076,6 @@ their favourite teams]]></description>
       <pubDate>Sun, 14 Jun 2026 12:32:00 +0000</pubDate>
       <description><![CDATA[Bangladesh Jamaat-e-Islami amir and leader of the opposition in parliament Shafiqur Rahman on Saturday urged prime minister Tarique Rahman to accept the referendum verdict, warning of consequences if the people’s mandate was ignored....]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/politics/302649/shafiqur-urges-pm-to-accept-referendum-verdict</guid>
-    </item>
-    <item>
-      <title><![CDATA[RNPP to serve as a milestone in ensuring reliable energy: minister]]></title>
-      <link>https://www.newagebd.net/post/country/302648/rnpp-to-serve-as-a-milestone-in-ensuring-reliable-energy-minister</link>
-      <pubDate>Sun, 14 Jun 2026 12:30:00 +0000</pubDate>
-      <description><![CDATA[Science and technology minister Fakir Mahbub Anam said the Rooppur Nuclear Power Plant (RNPP) will serve as a milestone in ensuring reliable, affordable and sustainable energy in the country....]]></description>
-      <guid isPermaLink="false">https://www.newagebd.net/post/country/302648/rnpp-to-serve-as-a-milestone-in-ensuring-reliable-energy-minister</guid>
     </item>
   </channel>
 </rss>
