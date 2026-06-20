@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sat, 20 Jun 2026 08:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:44:33 GMT</lastBuildDate>
     <item>
       <title><![CDATA[BGB, locals foil two more BSF push-in bids]]></title>
       <link>https://www.newagebd.net/post/foreign-affairs/303311/bgb-locals-foil-two-more-bsf-push-in-bids</link>
@@ -200,6 +200,20 @@
       <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
       <description><![CDATA[A DHAKA court’s decision on June 18 to once again extend the deadline for the submission of police investigation report on the murder of journalist couple Sagar Sarwar and Meherun Runi has deepened the disappointment of the families, further eroding their......]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/editorial/303283/unresolved-sagar-runi-case-speaks-of-enduring-impunity</guid>
+    </item>
+    <item>
+      <title><![CDATA[পর্যটনকেন্দ্রে নিরাপত্তা বাড়ান]]></title>
+      <link>https://www.jugantor.com/tp-letter/1114354</link>
+      <pubDate>Sat, 20 Jun 2026 08:46:27 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1114354</guid>
+    </item>
+    <item>
+      <title><![CDATA[সানাউল্লাহ নূরী]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1114353</link>
+      <pubDate>Sat, 20 Jun 2026 08:46:27 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1114353</guid>
     </item>
     <item>
       <title><![CDATA[সবার আগে নকআউটে মেক্সিকো]]></title>
@@ -7040,20 +7054,6 @@
       <pubDate>Thu, 18 Jun 2026 19:54:41 +0000</pubDate>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">https://www.daily-sun.com/winner/881078</guid>
-    </item>
-    <item>
-      <title><![CDATA[Lessons of Muharram]]></title>
-      <link>https://www.daily-sun.com/our-faith/881067</link>
-      <pubDate>Thu, 18 Jun 2026 19:54:41 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/our-faith/881067</guid>
-    </item>
-    <item>
-      <title><![CDATA[The immutability of God]]></title>
-      <link>https://www.daily-sun.com/our-faith/881066</link>
-      <pubDate>Thu, 18 Jun 2026 19:54:41 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/our-faith/881066</guid>
     </item>
   </channel>
 </rss>
