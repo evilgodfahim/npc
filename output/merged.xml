@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sun, 21 Jun 2026 16:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 18:03:10 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Setting Sail Again on the Rising Tide of the East: China-Bangladesh Relations at a New Starting Point]]></title>
+      <link>https://www.daily-sun.com/editorial/881557</link>
+      <pubDate>Sun, 21 Jun 2026 17:00:52 +0000</pubDate>
+      <description><![CDATA[Setting Sail Again on the Rising Tide of the East: China-Bangladesh Relations at a New Starting Point]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/editorial/881557</guid>
+    </item>
     <item>
       <title><![CDATA[4 gantry cranes arrive for Patenga Container Terminal]]></title>
       <link>https://www.newagebd.net/post/country/303462/4-gantry-cranes-arrive-for-patenga-container-terminal</link>
@@ -7050,13 +7057,6 @@
       <pubDate>Fri, 19 Jun 2026 18:57:49 +0000</pubDate>
       <description><![CDATA[Read full stories online :- Stokes set for return in NZ finale- Arsenal will start title defence against Coventry- Iran to lodge]]></description>
       <guid isPermaLink="false">https://www.daily-sun.com/winner/881259</guid>
-    </item>
-    <item>
-      <title><![CDATA[World Cup or a Platform Event?]]></title>
-      <link>https://www.daily-sun.com/editorial/881244</link>
-      <pubDate>Fri, 19 Jun 2026 18:57:49 +0000</pubDate>
-      <description><![CDATA[The FIFA World Cup has long occupied a rare place in global culture because it creates a shared public reference]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/editorial/881244</guid>
     </item>
   </channel>
 </rss>
