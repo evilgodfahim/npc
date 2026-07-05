@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:53:27 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] Bangladesh secures $3.3b ITFC annual financing]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/bangladesh-secures-33b-itfc-annual-financing-1783274800</link>
@@ -396,6 +396,20 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[To promote the use of...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/information-minister-promotes-use-of-bangla-qr-1783272032</guid>
+    </item>
+    <item>
+      <title><![CDATA[মেরি কুরি]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1122050</link>
+      <pubDate>Sun, 05 Jul 2026 21:56:15 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1122050</guid>
+    </item>
+    <item>
+      <title><![CDATA[স্থানীয় সরকার নির্বাচন]]></title>
+      <link>https://www.jugantor.com/tp-editorial/1122044</link>
+      <pubDate>Sun, 05 Jul 2026 21:56:15 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-editorial/1122044</guid>
     </item>
     <item>
       <title><![CDATA[London’s driverless revolution: Awe, anxiety and the unknown]]></title>
@@ -7048,20 +7062,6 @@ in New York]]></description>
       <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[TEL AVIV, July 03 (Reuters):...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/world/israel-leases-confiscated-jerusalem-land-to-us-for-1-to-build-permanent-embassy-1783096814</guid>
-    </item>
-    <item>
-      <title><![CDATA[[WORLD] 3,700 excess deaths reported during heatwave in Europe]]></title>
-      <link>https://today.thefinancialexpress.com.bd/world/3700-excess-deaths-reported-during-heatwave-in-europe-1783096858</link>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[PARIS, July 03 (Agencies): France,...]]></description>
-      <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/world/3700-excess-deaths-reported-during-heatwave-in-europe-1783096858</guid>
-    </item>
-    <item>
-      <title><![CDATA[[WORLD] Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine]]></title>
-      <link>https://today.thefinancialexpress.com.bd/world/putin-shrugs-off-fuel-shortages-in-russia-as-he-ramps-up-attacks-on-ukraine-1783096912</link>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[MOSCOW, July 03 (Arab News):...]]></description>
-      <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/world/putin-shrugs-off-fuel-shortages-in-russia-as-he-ramps-up-attacks-on-ukraine-1783096912</guid>
     </item>
   </channel>
 </rss>
