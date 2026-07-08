@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Wed, 08 Jul 2026 17:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 19:12:55 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[How High-level Malaysia and China Visits Shaping Climate-smart Agriculture]]></title>
+      <link>https://www.daily-sun.com/editorial/885025</link>
+      <pubDate>Wed, 08 Jul 2026 18:10:54 +0000</pubDate>
+      <description><![CDATA[Diplomacy is often judged by visible outcomes, trade agreements, investment commitments, infrastructure projects and joint declarations. Yet for a climate-vulnerable]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/editorial/885025</guid>
+    </item>
     <item>
       <title><![CDATA[এগিয়ে থেকেও অপূর্ণতার গল্প লিখল মিশর]]></title>
       <link>https://www.kalbela.com/ajkerpatrika/firstpage/307001</link>
@@ -7065,13 +7072,6 @@ promoting child sexual abuse]]></description>
       <pubDate>Mon, 06 Jul 2026 05:07:27 GMT</pubDate>
       <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
       <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/306190</guid>
-    </item>
-    <item>
-      <title><![CDATA[ডুবতে থাকা বোনকে বাঁচাতে গিয়ে প্রাণ গেল বড় বোনেরও]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/khobor/306191</link>
-      <pubDate>Mon, 06 Jul 2026 05:07:27 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/306191</guid>
     </item>
   </channel>
 </rss>
