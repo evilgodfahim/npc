@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Thu, 09 Jul 2026 08:51:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:45:48 GMT</lastBuildDate>
     <item>
       <title><![CDATA[পদে পদে জালিয়াতি এশিয়ান গ্রুপের, কর ফাঁকি ৭৯২ কোটি]]></title>
       <link>https://www.kalbela.com/ajkerpatrika/firstpage/307225</link>
@@ -445,6 +445,34 @@
       <pubDate>Thu, 09 Jul 2026 08:24:49 GMT</pubDate>
       <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/07/09/image-307274.webp" />]]></description>
       <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/special-event/307274</guid>
+    </item>
+    <item>
+      <title><![CDATA[অনলাইন জুয়ার ফাঁদে তরুণ প্রজন্ম]]></title>
+      <link>https://www.jugantor.com/tp-letter/1123443</link>
+      <pubDate>Thu, 09 Jul 2026 08:22:41 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1123443</guid>
+    </item>
+    <item>
+      <title><![CDATA[আর্থার কোনান ডয়েল]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1123440</link>
+      <pubDate>Thu, 09 Jul 2026 08:22:41 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1123440</guid>
+    </item>
+    <item>
+      <title><![CDATA[জুলাই গণ-অভ্যুত্থান নিয়ে কটূক্তি]]></title>
+      <link>https://www.jugantor.com/tp-editorial/1123436</link>
+      <pubDate>Thu, 09 Jul 2026 08:22:41 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-editorial/1123436</guid>
+    </item>
+    <item>
+      <title><![CDATA[ক্লারা জেটকিন]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1122443</link>
+      <pubDate>Thu, 09 Jul 2026 08:22:41 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1122443</guid>
     </item>
     <item>
       <title><![CDATA[পাহাড়ধসে তিন দিনে ২২ মৃত্যু]]></title>
@@ -7034,34 +7062,6 @@ harmony held in Gaibandha]]></description>
       <pubDate>Tue, 07 Jul 2026 02:37:23 GMT</pubDate>
       <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/07/07/image-306544.webp" />]]></description>
       <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/tarabela/306544</guid>
-    </item>
-    <item>
-      <title><![CDATA[এফডিসির প্রতি রোজিনার অভিমান]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/tarabela/306545</link>
-      <pubDate>Tue, 07 Jul 2026 02:37:23 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/07/07/image-306545.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/tarabela/306545</guid>
-    </item>
-    <item>
-      <title><![CDATA[অপ্রকাশিত গানেই ফিরছেন বিয়ন্সে]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/tarabela/306546</link>
-      <pubDate>Tue, 07 Jul 2026 02:37:23 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/07/07/image-306546.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/tarabela/306546</guid>
-    </item>
-    <item>
-      <title><![CDATA[রোনাল্ডোর স্বপ্ন গুঁড়িয়ে শেষ আটে স্পেন]]></title>
-      <link>https://www.jugantor.com/tp-second-edition/1123545</link>
-      <pubDate>Tue, 07 Jul 2026 02:35:32 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-second-edition/1123545</guid>
-    </item>
-    <item>
-      <title><![CDATA[গরমে শিশুর যত্ন]]></title>
-      <link>https://www.jugantor.com/tp-out-of-home/1123555</link>
-      <pubDate>Tue, 07 Jul 2026 02:35:32 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-out-of-home/1123555</guid>
     </item>
   </channel>
 </rss>
