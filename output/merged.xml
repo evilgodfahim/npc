@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Fri, 10 Jul 2026 20:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:32:15 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] RMG cash incentives redoubled for spinning mills' revival]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/rmg-cash-incentives-redoubled-for-spinning-mills-revival-1783706693</link>
@@ -368,6 +368,13 @@
       <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Bangladesh Jewellers' Association (BAJUS) has increased gold prices a day...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/gold-prices-raised-by-tk-2216-to-tk-224182-1783702703</guid>
+    </item>
+    <item>
+      <title><![CDATA[এন্ড্রু কিশোর]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1123002</link>
+      <pubDate>Fri, 10 Jul 2026 20:17:32 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1123002</guid>
     </item>
     <item>
       <title><![CDATA[PM asks admin, partymen to stand by flood victims]]></title>
@@ -7027,13 +7034,6 @@
       <pubDate>Wed, 08 Jul 2026 08:18:38 GMT</pubDate>
       <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/07/08/image_306860_1783487632.webp" />]]></description>
       <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/lastpage/306860</guid>
-    </item>
-    <item>
-      <title><![CDATA[জরায়ুমুখ ক্যানসার রুখতে চাই সচেতনতা]]></title>
-      <link>https://www.jugantor.com/tp-letter/1123014</link>
-      <pubDate>Wed, 08 Jul 2026 08:16:57 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1123014</guid>
     </item>
   </channel>
 </rss>
