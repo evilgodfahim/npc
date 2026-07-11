@@ -4,7 +4,21 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sat, 11 Jul 2026 17:27:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 18:25:21 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Death toll rises amid calls for relief]]></title>
+      <link>https://www.daily-sun.com/front-page/885609</link>
+      <pubDate>Sat, 11 Jul 2026 18:05:56 +0000</pubDate>
+      <description><![CDATA[Death toll rises amid calls for relief]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/front-page/885609</guid>
+    </item>
+    <item>
+      <title><![CDATA[Riding the Waves at the Right Time — China’s Strong Economic Resilience Injects Powerful Momentum into China-Bangladesh Cooperation]]></title>
+      <link>https://www.daily-sun.com/editorial/885601</link>
+      <pubDate>Sat, 11 Jul 2026 18:05:56 +0000</pubDate>
+      <description><![CDATA[Riding the Waves at the Right Time — China’s Strong Economic Resilience Injects Powerful Momentum into China-Bangladesh Cooperation]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/editorial/885601</guid>
+    </item>
     <item>
       <title><![CDATA[দুদকের নেতৃত্বে একাধিপত্য]]></title>
       <link>https://www.jugantor.com/tp-editorial/1124357</link>
@@ -7033,20 +7047,6 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Information and Broadcasting Minister Zahir Uddin Swapon held a meeting...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/metro-news/information-and-broadcasting-minister-zahir-uddin-swapon-held-a-meeting-with-dutch-ambassador-1783530094</guid>
-    </item>
-    <item>
-      <title><![CDATA[Salahuddin meets Pakistan, Vietnam, UN leaders at UNHQ]]></title>
-      <link>https://today.thefinancialexpress.com.bd/metro-news/salahuddin-meets-pakistan-vietnam-un-leaders-at-unhq-1783530118</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[FE REPORTHome Minister Salahuddin Ahmed...]]></description>
-      <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/metro-news/salahuddin-meets-pakistan-vietnam-un-leaders-at-unhq-1783530118</guid>
-    </item>
-    <item>
-      <title><![CDATA[Three die of dengue, three of measles]]></title>
-      <link>https://today.thefinancialexpress.com.bd/metro-news/three-die-of-dengue-three-of-measles-1783530133</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The Director General of Health Service (DGHS) reported three new...]]></description>
-      <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/metro-news/three-die-of-dengue-three-of-measles-1783530133</guid>
     </item>
   </channel>
 </rss>
