@@ -4,7 +4,21 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Tue, 14 Jul 2026 17:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:35:36 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Floods inflict Tk399cr losses on fisheries, livestock as death toll climbs to 56]]></title>
+      <link>https://www.daily-sun.com/front-page/886268</link>
+      <pubDate>Tue, 14 Jul 2026 17:55:50 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/front-page/886268</guid>
+    </item>
+    <item>
+      <title><![CDATA[Minister sorry, students angry]]></title>
+      <link>https://www.daily-sun.com/front-page/886271</link>
+      <pubDate>Tue, 14 Jul 2026 17:55:50 +0000</pubDate>
+      <description><![CDATA[Minister sorry, students angry]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/front-page/886271</guid>
+    </item>
     <item>
       <title><![CDATA[Govt to expand dialysis services to upazila hospitals: minister]]></title>
       <link>https://www.newagebd.net/post/country/306073/govt-to-expand-dialysis-services-to-upazila-hospitals-minister</link>
@@ -7073,20 +7087,6 @@ with birth drive]]></description>
       <pubDate>Sun, 12 Jul 2026 18:11:42 +0000</pubDate>
       <description><![CDATA[‘algo-rhythmic-bodies’ explores life under the digital gaze]]></description>
       <guid isPermaLink="false">https://www.daily-sun.com/culturetainment/885813</guid>
-    </item>
-    <item>
-      <title><![CDATA[SK Hynix CEO sees worst memory shortage in 2027]]></title>
-      <link>https://www.daily-sun.com/scitech/885847</link>
-      <pubDate>Sun, 12 Jul 2026 18:11:42 +0000</pubDate>
-      <description><![CDATA[Demand to outstrip supply beyond 2030]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/scitech/885847</guid>
-    </item>
-    <item>
-      <title><![CDATA[পাকিস্তান ভাঙার ইচ্ছা ছিল নাতাজউদ্দীনের পরামর্শেও শেখ মুজিব স্বাধীনতার ঘোষণা দেননি: স্পিকার হাফিজ উদ্দিন]]></title>
-      <link>https://www.jugantor.com/tp-second-edition/1125815</link>
-      <pubDate>Sun, 12 Jul 2026 08:07:24 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-second-edition/1125815</guid>
     </item>
   </channel>
 </rss>
