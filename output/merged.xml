@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Wed, 15 Jul 2026 21:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:28:26 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] BFIU finds 74pc rise in shady dealings in FY25]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/bfiu-finds-74pc-rise-in-shady-dealings-in-fy25-1784138788</link>
@@ -403,6 +403,13 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[A cabinet committee at a meeting on Wednesday reviewed the...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/last-page/cabinet-committee-reviews-draft-cyber-security-amendment-act-1784139571</guid>
+    </item>
+    <item>
+      <title><![CDATA[[FIRST PAGE] Argentina enter final in superb comeback]]></title>
+      <link>https://today.thefinancialexpress.com.bd/first-page/argentina-enter-final-in-superb-comeback-1784152568</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Argentina do it again. The...]]></description>
+      <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/first-page/argentina-enter-final-in-superb-comeback-1784152568</guid>
     </item>
     <item>
       <title><![CDATA[ভূমিকম্পের ক্ষতি হ্রাসে কার্যকর উদ্যোগ নেইধ্বংসের ঝুঁকিতে ঢাকা]]></title>
@@ -7045,13 +7052,6 @@ for flood victims]]></description>
       <pubDate>Mon, 13 Jul 2026 10:39:00 +0000</pubDate>
       <description><![CDATA[NCC Bank and Akij Resource Group have recently signed an agreement on advance cash management, said a press release......]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/mis/306030/ncc-bank-akij-resource-group-sign-deal</guid>
-    </item>
-    <item>
-      <title><![CDATA[SC cancels HC verdict awarding Gulshan plot to NASSA Group chairman]]></title>
-      <link>https://www.newagebd.net/post/country/306029/sc-cancels-hc-verdict-awarding-gulshan-plot-to-nassa-group-chairman</link>
-      <pubDate>Mon, 13 Jul 2026 10:35:00 +0000</pubDate>
-      <description><![CDATA[The Appellate Division of the Supreme Court on Monday set aside a 2017 High Court judgement that had directed Agrani Bank Limited to transfer ownership of a disputed 22-katha plot in Gulshan, Dhaka, to Md Nazrul Islam Mazumder, Exim Bank chairman and former Bangladesh Association of Banks president, after he cleared the property’s outstanding loan....Arabs& Middle Easterners]]></description>
-      <guid isPermaLink="false">https://www.newagebd.net/post/country/306029/sc-cancels-hc-verdict-awarding-gulshan-plot-to-nassa-group-chairman</guid>
     </item>
   </channel>
 </rss>
