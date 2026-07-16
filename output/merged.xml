@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Thu, 16 Jul 2026 17:43:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:56:38 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[New Wage Board essential to ensure journalists’ professional security: Swapon]]></title>
+      <link>https://www.daily-sun.com/front-page/886710</link>
+      <pubDate>Thu, 16 Jul 2026 18:00:14 +0000</pubDate>
+      <description><![CDATA[Information and Broadcasting Minister Zahir Uddin Swapon said on Thursday that it is not possible to ensure journalists’ professional security,]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/front-page/886710</guid>
+    </item>
     <item>
       <title><![CDATA[Flood damages over 200km roads in Ctg]]></title>
       <link>https://www.newagebd.net/post/environment-climate-change/306317/flood-damages-over-200km-roads-in-ctg</link>
@@ -7057,13 +7064,6 @@ within 2’]]></description>
       <pubDate>Mon, 13 Jul 2026 22:51:03 +0000</pubDate>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">https://www.jugantor.com/tp-ten-horizon/1126581</guid>
-    </item>
-    <item>
-      <title><![CDATA[এবার লড়াই ফাইনালে যাওয়ারপুরো স্পেন দলকে নিয়ে ভাবছে ফ্রান্স]]></title>
-      <link>https://www.jugantor.com/tp-fwc2026/1126568</link>
-      <pubDate>Mon, 13 Jul 2026 22:51:03 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-fwc2026/1126568</guid>
     </item>
   </channel>
 </rss>
