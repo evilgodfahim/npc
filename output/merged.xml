@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Thu, 23 Jul 2026 07:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:11:39 GMT</lastBuildDate>
     <item>
       <title><![CDATA[Ukraine strikes Russian retail giant again]]></title>
       <link>https://www.newagebd.net/post/europe/307231/ukraine-strikes-russian-retail-giant-again</link>
@@ -151,6 +151,20 @@
       <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
       <description><![CDATA[BANGLADESH has reached an important moment in its economic journey. As the country prepares to graduate from Least Developed Country status, the narrative of being a development success story is no longer enough. Sustained economic growth may have improved incomes and infrastructure, but it has not translated into a stronger global identity......]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/opinion/307173/more-than-growth</guid>
+    </item>
+    <item>
+      <title><![CDATA[জিয়া উদ্যানে অশ্লীলতা বন্ধ করুন]]></title>
+      <link>https://www.jugantor.com/tp-letter/1128759</link>
+      <pubDate>Thu, 23 Jul 2026 08:20:51 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1128759</guid>
+    </item>
+    <item>
+      <title><![CDATA[হুমায়ূন আহমেদ]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1128757</link>
+      <pubDate>Thu, 23 Jul 2026 08:20:51 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1128757</guid>
     </item>
     <item>
       <title><![CDATA[দিল্লিতে আন্দোলনে সমর্থন বাড়ছে]]></title>
@@ -7071,20 +7085,6 @@ spark concern over Joypurhat road project]]></description>
       <pubDate>Tue, 21 Jul 2026 02:07:23 +0000</pubDate>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">https://www.jugantor.com/tp-out-of-home/1129730</guid>
-    </item>
-    <item>
-      <title><![CDATA[রেসিপিমজাদার সালাদ]]></title>
-      <link>https://www.jugantor.com/tp-out-of-home/1129729</link>
-      <pubDate>Tue, 21 Jul 2026 02:07:23 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-out-of-home/1129729</guid>
-    </item>
-    <item>
-      <title><![CDATA[কাঠলিচুর পুষ্টিগুণ]]></title>
-      <link>https://www.jugantor.com/tp-out-of-home/1129728</link>
-      <pubDate>Tue, 21 Jul 2026 02:07:23 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-out-of-home/1129728</guid>
     </item>
   </channel>
 </rss>
