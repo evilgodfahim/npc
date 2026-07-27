@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sun, 26 Jul 2026 23:27:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 01:07:03 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[VIEWS & OPINION] What the latest NATO summit reveals]]></title>
       <link>https://today.thefinancialexpress.com.bd/views-opinion/what-the-latest-nato-summit-reveals-1785081191</link>
@@ -403,6 +403,34 @@
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Bangladesh Bank (BB) said on...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/last-page/no-separate-bb-probe-into-allegations-against-shahabuddin-1785090035</guid>
+    </item>
+    <item>
+      <title><![CDATA[ক্রমবাড়ন্ত খেলাপি ঋণ]]></title>
+      <link>https://www.jugantor.com/tp-editorial/1131356</link>
+      <pubDate>Sun, 26 Jul 2026 23:55:35 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-editorial/1131356</guid>
+    </item>
+    <item>
+      <title><![CDATA[খেলাপি ঋণ কালচারের দায়ভার কি শুধুই ঋণগ্রহীতার]]></title>
+      <link>https://www.jugantor.com/tp-ub-editorial/1131360</link>
+      <pubDate>Sun, 26 Jul 2026 23:55:35 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-ub-editorial/1131360</guid>
+    </item>
+    <item>
+      <title><![CDATA[নিউইয়র্কের চিঠিযুক্তরাষ্ট্রে অভিবাসী বহিষ্কারের সর্বগ্রাসী রূপ]]></title>
+      <link>https://www.jugantor.com/tp-ub-editorial/1131359</link>
+      <pubDate>Sun, 26 Jul 2026 23:55:35 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-ub-editorial/1131359</guid>
+    </item>
+    <item>
+      <title><![CDATA[আবদুর রশিদ মৃধা]]></title>
+      <link>https://www.jugantor.com/tp-obituary/1130562</link>
+      <pubDate>Sun, 26 Jul 2026 23:55:35 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-obituary/1130562</guid>
     </item>
     <item>
       <title><![CDATA[ছোট জয়ের নেশায় বড় ক্ষতি!]]></title>
@@ -7026,34 +7054,6 @@ New President]]></description>
       <pubDate>Sat, 25 Jul 2026 02:08:09 +0000</pubDate>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">https://www.jugantor.com/tp-stay-well/1131473</guid>
-    </item>
-    <item>
-      <title><![CDATA[ডায়াবেটিসে উচ্চরক্তচাপ : নীরব ঘাতকের দ্বৈত আক্রমণ]]></title>
-      <link>https://www.jugantor.com/tp-stay-well/1131472</link>
-      <pubDate>Sat, 25 Jul 2026 02:08:09 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-stay-well/1131472</guid>
-    </item>
-    <item>
-      <title><![CDATA[হেলথ টিপস]]></title>
-      <link>https://www.jugantor.com/tp-stay-well/1131471</link>
-      <pubDate>Sat, 25 Jul 2026 02:08:09 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-stay-well/1131471</guid>
-    </item>
-    <item>
-      <title><![CDATA[আবিষ্কারপানির ফিল্টার]]></title>
-      <link>https://www.jugantor.com/shokal-belar-pakhi/1131468</link>
-      <pubDate>Sat, 25 Jul 2026 02:08:09 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/shokal-belar-pakhi/1131468</guid>
-    </item>
-    <item>
-      <title><![CDATA[গল্পইঁদুর ধরার কল]]></title>
-      <link>https://www.jugantor.com/shokal-belar-pakhi/1131467</link>
-      <pubDate>Sat, 25 Jul 2026 02:08:09 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/shokal-belar-pakhi/1131467</guid>
     </item>
   </channel>
 </rss>
