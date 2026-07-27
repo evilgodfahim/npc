@@ -4,7 +4,21 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Mon, 27 Jul 2026 17:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:52:42 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[How China’s Commitment to Global Security Resonates in Global South]]></title>
+      <link>https://www.daily-sun.com/editorial/889044</link>
+      <pubDate>Mon, 27 Jul 2026 17:57:14 +0000</pubDate>
+      <description><![CDATA[How China’s Commitment to Global Security Resonates in Global South]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/editorial/889044</guid>
+    </item>
+    <item>
+      <title><![CDATA[Tiger population rebounds in Sundarbans despite decades of losses]]></title>
+      <link>https://www.daily-sun.com/my-districts/889052</link>
+      <pubDate>Mon, 27 Jul 2026 17:57:14 +0000</pubDate>
+      <description><![CDATA[Tiger population rebounds in Sundarbans despite decades of losses]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/my-districts/889052</guid>
+    </item>
     <item>
       <title><![CDATA[Trump says EU to pay ‘very big price’ for Google fine]]></title>
       <link>https://www.newagebd.net/post/telecom/307728/trump-says-eu-to-pay-very-big-price-for-google-fine</link>
@@ -7040,20 +7054,6 @@ New President]]></description>
       <pubDate>Sat, 25 Jul 2026 19:26:10 +0000</pubDate>
       <description><![CDATA[Italy failed to qualify for a third consecutive World Cup in April.Gennaro Gattuso, his mission incomplete, walked away from the]]></description>
       <guid isPermaLink="false">https://www.daily-sun.com/winner/888672</guid>
-    </item>
-    <item>
-      <title><![CDATA[SAFF countdown begins in Dhaka with logo unveiling]]></title>
-      <link>https://www.daily-sun.com/winner/888671</link>
-      <pubDate>Sat, 25 Jul 2026 19:26:10 +0000</pubDate>
-      <description><![CDATA[Hosts Bangladesh dream of long-elusive trophy]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/winner/888671</guid>
-    </item>
-    <item>
-      <title><![CDATA[Rajshahi Stars build dream team for historic Asian debut]]></title>
-      <link>https://www.daily-sun.com/winner/888670</link>
-      <pubDate>Sat, 25 Jul 2026 19:26:10 +0000</pubDate>
-      <description><![CDATA[Bangladesh’s domestic football is preparing for a landmark moment, and Rajshahi Stars FC are leaving nothing to chance.Set to become]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/winner/888670</guid>
     </item>
   </channel>
 </rss>
