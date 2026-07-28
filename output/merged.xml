@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Tue, 28 Jul 2026 22:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 23:51:43 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] Banks' liquidity bloats amid sluggish credit demand, rising deposits]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/banks-liquidity-bloats-amid-sluggish-credit-demand-rising-deposits-1785261771</link>
@@ -389,6 +389,27 @@
       <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Mercantile Bank PLC has signed...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/mercantile-bank-signs-credit-guarantee-agreement-with-pksf-1785255508</guid>
+    </item>
+    <item>
+      <title><![CDATA[ঠাকুরগাঁওয়ের আমগাছটি হতে পারে পর্যটনকেন্দ্র]]></title>
+      <link>https://www.jugantor.com/tp-letter/1132216</link>
+      <pubDate>Tue, 28 Jul 2026 23:00:07 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1132216</guid>
+    </item>
+    <item>
+      <title><![CDATA[আবদুল আলীম]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1132214</link>
+      <pubDate>Tue, 28 Jul 2026 23:00:07 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1132214</guid>
+    </item>
+    <item>
+      <title><![CDATA[রাষ্ট্রপতির দায়মুক্তি ও আইনের শাসন]]></title>
+      <link>https://www.jugantor.com/tp-editorial/1132205</link>
+      <pubDate>Tue, 28 Jul 2026 23:00:07 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-editorial/1132205</guid>
     </item>
     <item>
       <title><![CDATA[ডায়াবেটিক সমিতির সর্বাঙ্গে লুটের ক্ষত]]></title>
@@ -7050,27 +7071,6 @@ on deal]]></title>
       <pubDate>Sun, 26 Jul 2026 20:52:44 GMT</pubDate>
       <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/07/27/image-312886.webp" />]]></description>
       <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/312886</guid>
-    </item>
-    <item>
-      <title><![CDATA[রাষ্ট্রপতি নির্বাচনের প্রস্তুতি শুরু]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/khobor/312887</link>
-      <pubDate>Sun, 26 Jul 2026 20:52:44 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/312887</guid>
-    </item>
-    <item>
-      <title><![CDATA[ভারপ্রাপ্ত স্পিকারের সঙ্গে ইউএনওপিএস প্রতিনিধিদলের সাক্ষাৎ]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/khobor/312888</link>
-      <pubDate>Sun, 26 Jul 2026 20:52:44 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/312888</guid>
-    </item>
-    <item>
-      <title><![CDATA[সিলেট-সুনামগঞ্জে বন্যা পরিস্থিতি উন্নতির আভাস]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/khobor/312889</link>
-      <pubDate>Sun, 26 Jul 2026 20:52:44 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/312889</guid>
     </item>
   </channel>
 </rss>
