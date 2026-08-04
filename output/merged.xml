@@ -4,7 +4,16 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Tue, 04 Aug 2026 15:42:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:29:19 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[TheSilentStrings]]></title>
+      <link>https://www.daily-sun.com/culturetainment/890535</link>
+      <pubDate>Tue, 04 Aug 2026 17:17:18 +0000</pubDate>
+      <description><![CDATA[The
+Silent
+Strings]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/culturetainment/890535</guid>
+    </item>
     <item>
       <title><![CDATA[Suu Kyi meets Red Cross delegate in Myanmar]]></title>
       <link>https://www.newagebd.net/post/south-asia/308672/suu-kyi-meets-red-cross-delegate-in-myanmar</link>
@@ -7067,13 +7076,6 @@ slim Magic V6 foldable smartphone in Bangladesh]]></title>
       <pubDate>Sun, 02 Aug 2026 18:16:23 +0000</pubDate>
       <description><![CDATA[Quader trial nears end as closing arguments begin tomorrow]]></description>
       <guid isPermaLink="false">https://www.daily-sun.com/back-page/890192</guid>
-    </item>
-    <item>
-      <title><![CDATA[Today's Photo]]></title>
-      <link>https://www.daily-sun.com/back-page/890188</link>
-      <pubDate>Sun, 02 Aug 2026 18:16:23 +0000</pubDate>
-      <description><![CDATA[A traffic signal remains out of service after its internal lights were stolen, raising concerns over urban management, public safety,]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/back-page/890188</guid>
     </item>
   </channel>
 </rss>
