@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Thu, 06 Aug 2026 07:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:28:33 GMT</lastBuildDate>
     <item>
       <title><![CDATA[Newcastle appoint Jaissle as new head coach]]></title>
       <link>https://www.newagebd.net/post/football/308821/newcastle-appoint-jaissle-as-new-head-coach</link>
@@ -32,6 +32,20 @@
       <pubDate>Thu, 06 Aug 2026 12:06:00 +0000</pubDate>
       <description><![CDATA[The Detective Branch of the Dhaka Metropolitan Police on Wednesday arrested Akhtaruzzaman, a former Awami League lawmaker for the Gazipur-5 constituency....]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/politics/308818/ex-al-lawmaker-akhtaruzzaman-arrested-in-dhaka</guid>
+    </item>
+    <item>
+      <title><![CDATA[রক্তদানে আরও এগিয়ে আসতে হবে]]></title>
+      <link>https://www.jugantor.com/tp-letter/1134794</link>
+      <pubDate>Thu, 06 Aug 2026 08:24:44 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1134794</guid>
+    </item>
+    <item>
+      <title><![CDATA[আবু সাঈদ চৌধুরী]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1134792</link>
+      <pubDate>Thu, 06 Aug 2026 08:24:44 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1134792</guid>
     </item>
     <item>
       <title><![CDATA[দেশ ছেড়েছেন শেখ পরিবারের সবাই]]></title>
@@ -7088,20 +7102,6 @@ Strings]]></description>
       <pubDate>Mon, 03 Aug 2026 22:03:56 GMT</pubDate>
       <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
       <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/315382</guid>
-    </item>
-    <item>
-      <title><![CDATA[ঢাবিতে ছাত্রশক্তির বিক্ষোভ]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/khobor/315383</link>
-      <pubDate>Mon, 03 Aug 2026 22:03:56 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/315383</guid>
-    </item>
-    <item>
-      <title><![CDATA[নতুন দল ‘বাংলাদেশ জনরাষ্ট্র আন্দোলন]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/khobor/315384</link>
-      <pubDate>Mon, 03 Aug 2026 22:03:56 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/khobor/315384</guid>
     </item>
   </channel>
 </rss>
