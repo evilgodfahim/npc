@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sat, 08 Aug 2026 17:33:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 18:22:45 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Attempts to ‘weaken’ FoPL regulations draw backlash]]></title>
+      <link>https://www.daily-sun.com/front-page/891172</link>
+      <pubDate>Sat, 08 Aug 2026 18:16:10 +0000</pubDate>
+      <description><![CDATA[As Bangladesh moves closer to introducing mandatory front-of-pack warning labels on packaged foods high in sugar, salt and saturated fat,]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/front-page/891172</guid>
+    </item>
     <item>
       <title><![CDATA[Partisan competition erodes anti-fascist unity]]></title>
       <link>https://www.newagebd.net/post/politics/309011/partisan-competition-erodes-anti-fascist-unity</link>
@@ -7049,13 +7056,6 @@
       <pubDate>Thu, 06 Aug 2026 19:30:00 GMT</pubDate>
       <description><![CDATA[কৃত্রিম বুদ্ধিমত্তা (এআই) নিয়ে যুক্তরাষ্ট্র ও চীনের প্রতিযোগিতা যতই তীব্র হোক না কেন, মানবজাতির অস্তিত্বগত ঝুঁকি মোকাবেলায় এ দুই পরাশক্তির সহযোগিতার কোনো বিকল্প নেই।]]></description>
       <guid isPermaLink="false">https://bonikbarta.com/editorial/uPMHicXEts2vyl1E/</guid>
-    </item>
-    <item>
-      <title><![CDATA[ফিটনেসবিহীন পরিবহন রেখে শৃঙ্খলিত সড়কের কোনো পরিকল্পনাই সফল হবে না]]></title>
-      <link>https://bonikbarta.com/editorial/MhJwB3lJLxo3dQi9/</link>
-      <pubDate>Thu, 06 Aug 2026 19:00:00 GMT</pubDate>
-      <description><![CDATA[দেশের রাজধানীতে চলমান বাসের প্রায় ২৩ শতাংশই ফিটনেসবিহীন বলে ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষের (ডিটিসিএ) সাম্প্রতিক এক প্রতিবেদনে উঠে এসেছে।]]></description>
-      <guid isPermaLink="false">https://bonikbarta.com/editorial/MhJwB3lJLxo3dQi9/</guid>
     </item>
   </channel>
 </rss>
