@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sun, 09 Aug 2026 19:53:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 20:20:15 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] BD boasts $6.6b BoP surplus buoyed by external inflows]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/bd-boasts-66b-bop-surplus-buoyed-by-external-inflows-1786299113</link>
@@ -403,6 +403,13 @@
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Pahartoli Textiles Limited, a 100...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/pahartoli-textiles-limited-achieves-leed-platinum-certification-1786295902</guid>
+    </item>
+    <item>
+      <title><![CDATA[বিরল খনিজের সরবরাহ কমেছে জাপান-যুক্তরাষ্ট্রে]]></title>
+      <link>https://bonikbarta.com/economy/rJL2DFh0XGy3Lssp/</link>
+      <pubDate>Sun, 09 Aug 2026 20:12:38 GMT</pubDate>
+      <description><![CDATA[চীনের নতুন রফতানি নিষেধাজ্ঞার কারণে জাপান ও যুক্তরাষ্ট্রে বিরল খনিজ উপাদান বা ‘রেয়ার-আর্থ’-এর সরবরাহ কমেছে।]]></description>
+      <guid isPermaLink="false">https://bonikbarta.com/economy/rJL2DFh0XGy3Lssp/</guid>
     </item>
     <item>
       <title><![CDATA[Amazon GAMING BOSS predicts]]></title>
@@ -7062,13 +7069,6 @@ Defence Pact: Promise and Peril]]></description>
       <pubDate>Fri, 07 Aug 2026 21:32:58 +0000</pubDate>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">https://www.jugantor.com/tp-city/1137505</guid>
-    </item>
-    <item>
-      <title><![CDATA[টুকরো খবরগান নিয়ে ব্যস্ত অপূর্ব]]></title>
-      <link>https://www.jugantor.com/tp-anando-nagar/1137512</link>
-      <pubDate>Fri, 07 Aug 2026 21:32:58 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-anando-nagar/1137512</guid>
     </item>
   </channel>
 </rss>
