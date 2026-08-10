@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Mon, 10 Aug 2026 17:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:10:48 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[An Open Letter to Members of the Awami League from a Friend of Bangladesh]]></title>
+      <link>https://www.daily-sun.com/editorial/891559</link>
+      <pubDate>Mon, 10 Aug 2026 17:34:07 +0000</pubDate>
+      <description><![CDATA[An Open Letter to Members of the Awami League from a Friend of Bangladesh]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/editorial/891559</guid>
+    </item>
     <item>
       <title><![CDATA[Tongi road blocked for 3hrs after student killed in accident]]></title>
       <link>https://www.newagebd.net/post/country/309263/tongi-road-blocked-for-3hrs-after-student-killed-in-accident</link>
@@ -7057,13 +7064,6 @@ Defence Pact: Promise and Peril]]></description>
       <pubDate>Sat, 08 Aug 2026 19:29:31 +0000</pubDate>
       <description><![CDATA[UNIVERSITY TALKS On 21 April and 11 May, Chargé d’Affaires Mitchel Lee delivered lectures at the University of Dhaka and North]]></description>
       <guid isPermaLink="false">https://www.daily-sun.com/special-supplement/891215</guid>
-    </item>
-    <item>
-      <title><![CDATA[Banks remain safest bet for savers]]></title>
-      <link>https://www.daily-sun.com/special-supplement/889515</link>
-      <pubDate>Sat, 08 Aug 2026 19:29:31 +0000</pubDate>
-      <description><![CDATA[Surging remittances, high rates, and restored trust push bank deposits past Tk21.58 lakh crore]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/special-supplement/889515</guid>
     </item>
   </channel>
 </rss>
