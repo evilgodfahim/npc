@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Wed, 12 Aug 2026 19:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:33:04 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] Govt finally goes for US LNG at jacked-up price]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/govt-finally-goes-for-us-lng-at-jacked-up-price-1786556721</link>
@@ -347,6 +347,20 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The 10th meeting of the...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/board-meeting-of-sammilito-islami-bank-held-1786552229</guid>
+    </item>
+    <item>
+      <title><![CDATA[ঢাকা-ময়মনসিংহে ডবল রেললাইন চাই]]></title>
+      <link>https://www.jugantor.com/tp-letter/1137928</link>
+      <pubDate>Wed, 12 Aug 2026 19:58:12 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1137928</guid>
+    </item>
+    <item>
+      <title><![CDATA[মাহমুদ দারবিশ]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1137927</link>
+      <pubDate>Wed, 12 Aug 2026 19:58:12 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1137927</guid>
     </item>
     <item>
       <title><![CDATA[Presidential polls: BNP set to pick Fakhrul]]></title>
@@ -7068,20 +7082,6 @@ in secret plane swap]]></description>
       <pubDate>Mon, 10 Aug 2026 20:36:33 GMT</pubDate>
       <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/08/11/image-317517.webp" />]]></description>
       <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/lastpage/317517</guid>
-    </item>
-    <item>
-      <title><![CDATA[‘আগুনে পুড়ে যাচ্ছি মা, ঘরে তালা, বের হতে পারছি না’]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/lastpage/317518</link>
-      <pubDate>Mon, 10 Aug 2026 20:36:33 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/08/11/image-317518.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/lastpage/317518</guid>
-    </item>
-    <item>
-      <title><![CDATA[জাজিরায় পদ্মার ভয়াল থাবা]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/lastpage/317519</link>
-      <pubDate>Mon, 10 Aug 2026 20:36:33 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/08/11/image-317519.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/lastpage/317519</guid>
     </item>
   </channel>
 </rss>
