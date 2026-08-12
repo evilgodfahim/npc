@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Wed, 12 Aug 2026 22:30:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:30:36 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] Govt finally goes for US LNG at jacked-up price]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/govt-finally-goes-for-us-lng-at-jacked-up-price-1786556721</link>
@@ -347,6 +347,27 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The 10th meeting of the...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/board-meeting-of-sammilito-islami-bank-held-1786552229</guid>
+    </item>
+    <item>
+      <title><![CDATA[যাত্রাবিরতিতে জিম্মি ভোক্তা]]></title>
+      <link>https://www.jugantor.com/tp-letter/1138839</link>
+      <pubDate>Wed, 12 Aug 2026 22:33:52 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1138839</guid>
+    </item>
+    <item>
+      <title><![CDATA[মানবেন্দ্র মুখোপাধ্যায়]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1138840</link>
+      <pubDate>Wed, 12 Aug 2026 22:33:52 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1138840</guid>
+    </item>
+    <item>
+      <title><![CDATA[রাজধানীর গণপরিবহণে বিশৃঙ্খলা]]></title>
+      <link>https://www.jugantor.com/tp-editorial/1138832</link>
+      <pubDate>Wed, 12 Aug 2026 22:33:52 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-editorial/1138832</guid>
     </item>
     <item>
       <title><![CDATA[যাবজ্জীবন]]></title>
@@ -7061,27 +7082,6 @@ in secret plane swap]]></description>
       <pubDate>Mon, 10 Aug 2026 23:28:50 +0000</pubDate>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">https://www.jugantor.com/tp-sports/1138930</guid>
-    </item>
-    <item>
-      <title><![CDATA[মননের ভালোলাগার মধ্যেও মন খারাপ]]></title>
-      <link>https://www.jugantor.com/tp-sports/1138929</link>
-      <pubDate>Mon, 10 Aug 2026 23:28:50 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-sports/1138929</guid>
-    </item>
-    <item>
-      <title><![CDATA[বিদেশি কোচের বেতন বিভ্রাট!]]></title>
-      <link>https://www.jugantor.com/tp-sports/1138928</link>
-      <pubDate>Mon, 10 Aug 2026 23:28:50 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-sports/1138928</guid>
-    </item>
-    <item>
-      <title><![CDATA[আট স্থানে ৮ লাশ উদ্ধার]]></title>
-      <link>https://www.jugantor.com/tp-bangla-face/1138954</link>
-      <pubDate>Mon, 10 Aug 2026 23:28:50 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.jugantor.com/tp-bangla-face/1138954</guid>
     </item>
   </channel>
 </rss>
