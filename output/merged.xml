@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Thu, 13 Aug 2026 12:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 14:15:51 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[No articles found]]></title>
+      <link>https://today.thefinancialexpress.com.bd</link>
+      <pubDate>Thu, 13 Aug 2026 13:26:07 GMT</pubDate>
+      <description><![CDATA[RSS feed could not scrape any articles.]]></description>
+      <guid isPermaLink="false">https://today.thefinancialexpress.com.bd</guid>
+    </item>
     <item>
       <title><![CDATA[BB injects Tk 85,000cr into troubled banks]]></title>
       <link>https://www.newagebd.net/post/economy/309614/bb-injects-tk-85000cr-into-troubled-banks</link>
@@ -7070,13 +7077,6 @@ in secret plane swap]]></description>
       <pubDate>Tue, 11 Aug 2026 09:27:44 +0600</pubDate>
       <description><![CDATA[<img src="https://epaper.prothomalo.com//img/logo/logo.png" /><br /><br />মাহমুদুল হাসান ও গাজী ফিরোজ,রাউজান থেকে...]]></description>
       <guid isPermaLink="false">https://epaper.prothomalo.com/Home/MShareArticle?OrgId=1186271cd68&amp;amp;eid=1&amp;amp;imageview=0&amp;amp;epedate=11/08/2026&amp;amp;sedId=1</guid>
-    </item>
-    <item>
-      <title><![CDATA[জ্বালানি–ঘাটতিতে কমেছে উৎপাদন, বেড়েছে লোডশেডিং]]></title>
-      <link>https://epaper.prothomalo.com/Home/MShareArticle?OrgId=1186538ffc5&amp;amp;eid=1&amp;amp;imageview=0&amp;amp;epedate=11/08/2026&amp;amp;sedId=1</link>
-      <pubDate>Tue, 11 Aug 2026 09:27:44 +0600</pubDate>
-      <description><![CDATA[<img src="https://epaper.prothomalo.com//img/sharelogo1.jpg" /><br /><br />মহিউদ্দিন, ঢাকা জুনেই পাইকারি পর্যায়ে গ...]]></description>
-      <guid isPermaLink="false">https://epaper.prothomalo.com/Home/MShareArticle?OrgId=1186538ffc5&amp;amp;eid=1&amp;amp;imageview=0&amp;amp;epedate=11/08/2026&amp;amp;sedId=1</guid>
     </item>
   </channel>
 </rss>
