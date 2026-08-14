@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Fri, 14 Aug 2026 21:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:46:33 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] Four new ICDs being built around seaport]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/four-new-icds-being-built-around-seaport-1786729305</link>
@@ -361,6 +361,34 @@
       <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[JAKARTA, Aug 14 (AFP): The Indonesian government will close more...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/indonesia-to-close-more-than-750-state-owned-enterprises-president-1786726947</guid>
+    </item>
+    <item>
+      <title><![CDATA[হিজড়াদের জন্য কর্মসংস্থান গড়ে তুলুন]]></title>
+      <link>https://www.jugantor.com/tp-letter/1139777</link>
+      <pubDate>Fri, 14 Aug 2026 21:19:07 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-letter/1139777</guid>
+    </item>
+    <item>
+      <title><![CDATA[রঞ্জন কর্মকার]]></title>
+      <link>https://www.jugantor.com/tp-obituary/1139775</link>
+      <pubDate>Fri, 14 Aug 2026 21:19:07 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-obituary/1139775</guid>
+    </item>
+    <item>
+      <title><![CDATA[আনোয়ার জাহিদ]]></title>
+      <link>https://www.jugantor.com/shoronio-boronio/1139776</link>
+      <pubDate>Fri, 14 Aug 2026 21:19:07 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/shoronio-boronio/1139776</guid>
+    </item>
+    <item>
+      <title><![CDATA[একই ধারায় পুলিশ]]></title>
+      <link>https://www.jugantor.com/tp-editorial/1139768</link>
+      <pubDate>Fri, 14 Aug 2026 21:19:07 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.jugantor.com/tp-editorial/1139768</guid>
     </item>
     <item>
       <title><![CDATA[কাটেনি গ্যাস সংকট সিএনজিচালকদের সড়ক অবরোধ]]></title>
@@ -7006,34 +7034,6 @@
       <pubDate>Wed, 12 Aug 2026 21:40:04 GMT</pubDate>
       <description><![CDATA[<img src="https://www.kalbela.com/assets/images/kalbela-news-logo.webp" />]]></description>
       <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/banijjobela/318112</guid>
-    </item>
-    <item>
-      <title><![CDATA[নতুন রেকর্ড গড়লেন মনির খান]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/tarabela/318095</link>
-      <pubDate>Wed, 12 Aug 2026 21:40:04 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/08/13/image-318095.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/tarabela/318095</guid>
-    </item>
-    <item>
-      <title><![CDATA[জ্যোতিষীর মুখোমুখি সায়ন্তিকা]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/tarabela/318096</link>
-      <pubDate>Wed, 12 Aug 2026 21:40:04 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/08/13/image-318096.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/tarabela/318096</guid>
-    </item>
-    <item>
-      <title><![CDATA[মালয়েশিয়ায় সম্মাননা পাচ্ছেন ফারদিন]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/tarabela/318097</link>
-      <pubDate>Wed, 12 Aug 2026 21:40:04 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/08/13/image-318097.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/tarabela/318097</guid>
-    </item>
-    <item>
-      <title><![CDATA[নিজেকে ভাঙতে চান পারসা ইভানা]]></title>
-      <link>https://www.kalbela.com/ajkerpatrika/tarabela/318098</link>
-      <pubDate>Wed, 12 Aug 2026 21:40:04 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.kalbela.com/assets/news_photos/2026/08/13/image-318098.webp" />]]></description>
-      <guid isPermaLink="false">https://www.kalbela.com/ajkerpatrika/tarabela/318098</guid>
     </item>
   </channel>
 </rss>
