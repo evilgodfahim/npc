@@ -4,7 +4,14 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Fri, 14 Aug 2026 17:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:12:36 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Patuakhali fishing ports face ice shortage amid power crisis]]></title>
+      <link>https://www.daily-sun.com/my-districts/892291</link>
+      <pubDate>Fri, 14 Aug 2026 18:05:00 +0000</pubDate>
+      <description><![CDATA[Prolonged load shedding has severely disrupted ice production in Kalapara, forcing hundreds of fishing trawlers at Alipur-Mohipur Fisheries Port and]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/my-districts/892291</guid>
+    </item>
     <item>
       <title><![CDATA[CUET VC exchanges vies with students]]></title>
       <link>https://www.newagebd.net/post/campus-bites/309782/cuet-vc-exchanges-vies-with-students</link>
@@ -7027,13 +7034,6 @@
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
       <description><![CDATA[The publication of the 2026 Secondary School Certificate and equivalent examination results should prompt more than the customary celebration of high achievers and disappointment over lower pass rates. Examination results are not merely a scoreboard for students and schools; they are one of the few nationally comparable windows into Bangladesh’s education......]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/opinion/309437/reading-ssc-results</guid>
-    </item>
-    <item>
-      <title><![CDATA[‘Beyadob’ as a new political tool]]></title>
-      <link>https://www.newagebd.net/post/opinion/309436/beyadob-as-a-new-political-tool</link>
-      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
-      <description><![CDATA[AS AN academic with interest in language and society, I have been troubled by how the word beyadob has become a tool for social and political oppression in Bangladesh. In Bangla, beyadob is commonly used to refer to a person who is considered ill-mannered and disrespectful in their language use. The word entered the Bangla language through a long historical......]]></description>
-      <guid isPermaLink="false">https://www.newagebd.net/post/opinion/309436/beyadob-as-a-new-political-tool</guid>
     </item>
   </channel>
 </rss>
