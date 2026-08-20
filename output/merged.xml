@@ -4,7 +4,21 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Thu, 20 Aug 2026 17:28:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:56:08 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[MY TEACHER, MY PRESIDENT]]></title>
+      <link>https://www.daily-sun.com/front-page/893356</link>
+      <pubDate>Thu, 20 Aug 2026 17:50:40 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/front-page/893356</guid>
+    </item>
+    <item>
+      <title><![CDATA[Mirza Fakhrul elected President]]></title>
+      <link>https://www.daily-sun.com/front-page/893357</link>
+      <pubDate>Thu, 20 Aug 2026 17:50:40 +0000</pubDate>
+      <description><![CDATA[BNP candidate Mirza Fakhrul Islam Alamgir was elected the 23rd President of Bangladesh on Thursday, securing 255 votes to defeat]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/front-page/893357</guid>
+    </item>
     <item>
       <title><![CDATA[Govt to buy 14 LNG cargoes]]></title>
       <link>https://www.newagebd.net/post/country/310477/govt-to-buy-14-lng-cargoes</link>
@@ -7055,20 +7069,6 @@ keep continuous]]></title>
       <pubDate>Mon, 17 Aug 2026 20:33:12 GMT</pubDate>
       <description><![CDATA[মন্ত্রিপরিষদ সচিব নাসিমুল গনি ও জনপ্রশাসন মন্ত্রণালয়ের জ্যেষ্ঠ সচিব মো. এহছানুল হকের চুক্তিভিত্তিক নিয়োগের  মেয়াদ এক বছর বাড়িয়েছে সরকার।]]></description>
       <guid isPermaLink="false">https://bonikbarta.com/bangladesh/SWNLIa0U6LxDmZjd/</guid>
-    </item>
-    <item>
-      <title><![CDATA[একযোগে উপসচিব পদে ২৭৭ জনকে পদোন্নতি]]></title>
-      <link>https://bonikbarta.com/bangladesh/cpddR8gzyjtYP5B7/</link>
-      <pubDate>Mon, 17 Aug 2026 20:32:03 GMT</pubDate>
-      <description><![CDATA[সিনিয়র সহকারী সচিব ও সমমর্যাদার ২৭৭ জন কর্মকর্তাকে একযোগে উপসচিব পদে পদোন্নতি দিয়েছে সরকার।]]></description>
-      <guid isPermaLink="false">https://bonikbarta.com/bangladesh/cpddR8gzyjtYP5B7/</guid>
-    </item>
-    <item>
-      <title><![CDATA[গ্রাহকের মোটর বীমা দাবির ১১ লাখ টাকা পরিশোধ সাউথ এশিয়া ইন্স্যুরেন্সের]]></title>
-      <link>https://bonikbarta.com/economy/QKNSg8GieQylaCzy/</link>
-      <pubDate>Mon, 17 Aug 2026 20:31:53 GMT</pubDate>
-      <description><![CDATA[সাউথ এশিয়া ইন্স্যুরেন্স কোম্পানি লিমিটেডের গ্রাহক উইন্ডি গ্রুপের সহযোগী প্রতিষ্ঠান মেসার্স উইন্ডি লজিস্টিকসকে মোটর বীমা দাবি বাবদ ১১ লাখ ৫০০ টাকা পরিশোধ করা হয়েছে।]]></description>
-      <guid isPermaLink="false">https://bonikbarta.com/economy/QKNSg8GieQylaCzy/</guid>
     </item>
   </channel>
 </rss>
