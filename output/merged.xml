@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Fri, 21 Aug 2026 19:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:44:28 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] Queues for jobs getting longer]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/queues-for-jobs-getting-longer-1787335459</link>
@@ -382,6 +382,13 @@
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[PARIS, France, Aug 21 (AFP):...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/irans-main-trade-partners-at-risk-from-trumps-economic-warfare-1787331903</guid>
+    </item>
+    <item>
+      <title><![CDATA[Time for Bangladesh to Consider Alternative LNG Sources]]></title>
+      <link>https://www.daily-sun.com/post-logu/892293</link>
+      <pubDate>Fri, 21 Aug 2026 19:21:21 +0000</pubDate>
+      <description><![CDATA[Since late July, Bangladesh has been experiencing an acute gas crisis, resulting from a technical glitch at one of the]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/post-logu/892293</guid>
     </item>
     <item>
       <title><![CDATA[Countries, int’l leaders congratulate new President]]></title>
@@ -7048,13 +7055,6 @@
       <pubDate>Wed, 19 Aug 2026 08:51:30 +0600</pubDate>
       <description><![CDATA[<img src="https://epaper.prothomalo.com//img/sharelogo1.jpg" /><br /><br />বিশেষ প্রতিবেদক, ঢাকা রাষ্ট্রপতি নির্বা...]]></description>
       <guid isPermaLink="false">https://epaper.prothomalo.com/Home/MShareArticle?OrgId=19854082587&amp;amp;eid=1&amp;amp;imageview=0&amp;amp;epedate=19/08/2026&amp;amp;sedId=1</guid>
-    </item>
-    <item>
-      <title><![CDATA[দরকারের সময় অক্সিজেন পান না ৭০% মানুষ]]></title>
-      <link>https://epaper.prothomalo.com/Home/MShareArticle?OrgId=198c3318cee&amp;amp;eid=1&amp;amp;imageview=0&amp;amp;epedate=19/08/2026&amp;amp;sedId=1</link>
-      <pubDate>Wed, 19 Aug 2026 08:51:30 +0600</pubDate>
-      <description><![CDATA[<img src="https://epaper.prothomalo.com//img/logo/logo.png" /><br /><br />আইইউবির নীতি সংলাপ রোগীদের অক্সিজেন না ...]]></description>
-      <guid isPermaLink="false">https://epaper.prothomalo.com/Home/MShareArticle?OrgId=198c3318cee&amp;amp;eid=1&amp;amp;imageview=0&amp;amp;epedate=19/08/2026&amp;amp;sedId=1</guid>
     </item>
   </channel>
 </rss>
