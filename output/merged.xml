@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sat, 22 Aug 2026 13:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:49:34 GMT</lastBuildDate>
     <item>
       <title><![CDATA[Palli Sanchay Bank hosts ‘Palli Greenery Programme’]]></title>
       <link>https://www.newagebd.net/post/banking/310711/palli-sanchay-bank-hosts-palli-greenery-programme</link>
@@ -1525,6 +1525,13 @@
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[PARIS, France, Aug 21 (AFP):...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/irans-main-trade-partners-at-risk-from-trumps-economic-warfare-1787331903</guid>
+    </item>
+    <item>
+      <title><![CDATA[[VIEWS & OPINION] Combating rising cost of living and food insecurity]]></title>
+      <link>https://today.thefinancialexpress.com.bd/views-opinion/combating-rising-cost-of-living-and-food-insecurity-1787403363</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Bangladesh's cost-of-living crisis has become...]]></description>
+      <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/views-opinion/combating-rising-cost-of-living-and-food-insecurity-1787403363</guid>
     </item>
     <item>
       <title><![CDATA[‘মুক্তার সিন্ডিকেটের’ গলাকাটা টোল!]]></title>
@@ -7070,13 +7077,6 @@
       <pubDate>Thu, 20 Aug 2026 01:31:00 +0000</pubDate>
       <description><![CDATA[A landslide at an illegal gold mine has killed at least 100 people in the Central African Republic on the border with Cameroon, local sources said on Wednesday....]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/africa/310482/gold-mine-collapse-kills-100-in-central-africa</guid>
-    </item>
-    <item>
-      <title><![CDATA[Man lynched over theft charge in Rajbari]]></title>
-      <link>https://www.newagebd.net/post/country/310481/man-lynched-over-theft-charge-in-rajbari</link>
-      <pubDate>Thu, 20 Aug 2026 01:30:00 +0000</pubDate>
-      <description><![CDATA[A 35-year-old man was lynched by mob over an allegation of theft at Panchbaria village in Pangsha upazila of Rajbari early Wednesday....]]></description>
-      <guid isPermaLink="false">https://www.newagebd.net/post/country/310481/man-lynched-over-theft-charge-in-rajbari</guid>
     </item>
   </channel>
 </rss>
