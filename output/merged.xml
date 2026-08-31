@@ -4,7 +4,28 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Mon, 31 Aug 2026 08:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:31:41 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Redmi Note 17 Series to hit local market in September]]></title>
+      <link>https://www.daily-sun.com/scitech/895032</link>
+      <pubDate>Mon, 31 Aug 2026 15:13:05 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/scitech/895032</guid>
+    </item>
+    <item>
+      <title><![CDATA[vivo V80 Lite 5G launched in Bangladesh]]></title>
+      <link>https://www.daily-sun.com/scitech/895031</link>
+      <pubDate>Mon, 31 Aug 2026 15:13:05 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/scitech/895031</guid>
+    </item>
+    <item>
+      <title><![CDATA[China’s Bullet Trains: When Speed Becomes Everyday Life]]></title>
+      <link>https://www.daily-sun.com/scitech/895033</link>
+      <pubDate>Mon, 31 Aug 2026 15:13:05 +0000</pubDate>
+      <description><![CDATA[China’s Bullet Trains: When Speed Becomes Everyday Life]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/scitech/895033</guid>
+    </item>
     <item>
       <title><![CDATA[Give NHRC authority to probe enforced disappearances: activists]]></title>
       <link>https://www.newagebd.net/post/printed-news/311805/give-nhrc-authority-to-probe-enforced-disappearances-activists</link>
@@ -7085,27 +7106,6 @@ US midterm politics]]></description>
       <pubDate>Fri, 28 Aug 2026 18:50:14 +0000</pubDate>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">https://www.daily-sun.com/winner/894750</guid>
-    </item>
-    <item>
-      <title><![CDATA[Bridging the Gap between Universities and Society]]></title>
-      <link>https://www.daily-sun.com/editorial/894725</link>
-      <pubDate>Fri, 28 Aug 2026 18:50:14 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/editorial/894725</guid>
-    </item>
-    <item>
-      <title><![CDATA[A warning written in melting ice]]></title>
-      <link>https://www.daily-sun.com/editorial/894724</link>
-      <pubDate>Fri, 28 Aug 2026 18:50:14 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/editorial/894724</guid>
-    </item>
-    <item>
-      <title><![CDATA[Dholaikhal: Protector turns predator!]]></title>
-      <link>https://www.daily-sun.com/editorial/894723</link>
-      <pubDate>Fri, 28 Aug 2026 18:50:14 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/editorial/894723</guid>
     </item>
   </channel>
 </rss>
