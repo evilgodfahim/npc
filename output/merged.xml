@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Fri, 04 Sep 2026 07:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:11:19 GMT</lastBuildDate>
     <item>
       <title><![CDATA[Youth held on rape charge in Sylhet]]></title>
       <link>https://www.newagebd.net/post/back-page/312353/youth-held-on-rape-charge-in-sylhet</link>
@@ -431,6 +431,13 @@
       <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
       <description><![CDATA[Carlos Alcaraz said Wednesday he plans to play fewer tournaments in future, blaming an ‘impossible’ tennis calendar for a rising number of injuries in the sport....]]></description>
       <guid isPermaLink="false">https://www.newagebd.net/post/sports/312246/alcaraz-believes-039impossible039-schedule-raising-injury-threat</guid>
+    </item>
+    <item>
+      <title><![CDATA[Electro Mart CEO bags two Commonwealth honours]]></title>
+      <link>https://www.daily-sun.com/business-print/895881</link>
+      <pubDate>Fri, 04 Sep 2026 10:17:29 +0000</pubDate>
+      <description><![CDATA[Electro Mart Group Deputy Managing Director and Chief Executive Officer Md Nurul Afser has received two Commonwealth honours, underscoring his]]></description>
+      <guid isPermaLink="false">https://www.daily-sun.com/business-print/895881</guid>
     </item>
     <item>
       <title><![CDATA[সরকারের খরচের চাপ বাড়ছে, আয় সীমিত]]></title>
@@ -7082,13 +7089,6 @@ Industrial Transformation]]></description>
       <pubDate>Tue, 01 Sep 2026 20:13:46 +0000</pubDate>
       <description><![CDATA[]]></description>
       <guid isPermaLink="false">https://www.daily-sun.com/front-page/895420</guid>
-    </item>
-    <item>
-      <title><![CDATA[Boeing purchase driven by aviation sector needs: Kobir]]></title>
-      <link>https://www.daily-sun.com/back-page/895430</link>
-      <pubDate>Tue, 01 Sep 2026 20:13:46 +0000</pubDate>
-      <description><![CDATA[]]></description>
-      <guid isPermaLink="false">https://www.daily-sun.com/back-page/895430</guid>
     </item>
   </channel>
 </rss>
