@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sat, 10 Oct 2026 12:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:32:21 GMT</lastBuildDate>
     <item>
       <title><![CDATA[Calcutta HC says suspicion alone cannot justify deportation as Bangladeshi]]></title>
       <link>https://www.newagebd.net/post/foreign-affairs/317328/calcutta-hc-says-suspicion-alone-cannot-justify-deportation-as-bangladeshi</link>
@@ -1729,6 +1729,13 @@
       <pubDate>Fri, 09 Oct 2026 21:13:57 GMT</pubDate>
       <description><![CDATA[নতুন করে আবার বেড়িবাঁধে ধস ও ফাটল ধরেছে। এতে মানুষের বাড়িঘর, রাস্তা ও ফসলি জমি নদীতে চলে যাচ্ছে।]]></description>
       <guid isPermaLink="false">https://bonikbarta.com/talkies/FG0ZUNejaI8baWxB/</guid>
+    </item>
+    <item>
+      <title><![CDATA[দাকোপে থামছেই না বেড়িবাঁধের ভাঙন]]></title>
+      <link>https://bonikbarta.com/bangladesh/FG0ZUNejaI8baWxB/</link>
+      <pubDate>Fri, 09 Oct 2026 21:13:57 GMT</pubDate>
+      <description><![CDATA[নতুন করে আবার বেড়িবাঁধে ধস ও ফাটল ধরেছে। এতে মানুষের বাড়িঘর, রাস্তা ও ফসলি জমি নদীতে চলে যাচ্ছে।]]></description>
+      <guid isPermaLink="false">https://bonikbarta.com/bangladesh/FG0ZUNejaI8baWxB/</guid>
     </item>
     <item>
       <title><![CDATA[দক্ষিণ এশিয়ায় জিডিপি প্রবৃদ্ধিতে নেপাল-ভুটানের চেয়েও পিছিয়ে থাকবে বাংলাদেশ]]></title>
@@ -7075,13 +7082,6 @@
       <pubDate>Wed, 07 Oct 2026 20:11:34 GMT</pubDate>
       <description><![CDATA[সাউথইস্ট ব্যাংক জানিয়েছে, ‘স্বাগতম’ নামের এজেন্ট ব্যাংকিং কার্যক্রমের মাধ্যমে তথ্যপ্রযুক্তিনির্ভর প্রচলিত ব্যাংকিং সেবা নিশ্চিত করা হয়।]]></description>
       <guid isPermaLink="false">https://bonikbarta.com/economy/CvBxujidx5uZNe5D/</guid>
-    </item>
-    <item>
-      <title><![CDATA[সাভারে আকিজ সিরামিকসের নতুন এক্সক্লুসিভ শোরুম]]></title>
-      <link>https://bonikbarta.com/economy/8GYtvwo2GoP81bfw/</link>
-      <pubDate>Wed, 07 Oct 2026 20:10:08 GMT</pubDate>
-      <description><![CDATA[শোরুমটিতে আকিজ সিরামিকসের টাইলসের পাশাপাশি রোসার স্যানিটারিওয়্যার ও বাথওয়্যার এবং আকিজ ডোরের দরজার সংগ্রহ প্রদর্শন করা হচ্ছে।]]></description>
-      <guid isPermaLink="false">https://bonikbarta.com/economy/8GYtvwo2GoP81bfw/</guid>
     </item>
   </channel>
 </rss>
