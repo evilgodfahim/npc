@@ -4,7 +4,7 @@
     <title>Combined Politepol Feed</title>
     <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
     <description>Merged feed from multiple Politepol sources</description>
-    <lastBuildDate>Sat, 24 Oct 2026 19:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:07:19 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[FIRST PAGE] Protests across EU could squeeze apparel orders]]></title>
       <link>https://today.thefinancialexpress.com.bd/first-page/protests-across-eu-could-squeeze-apparel-orders-1792863635</link>
@@ -354,6 +354,13 @@
       <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Bangladesh's telecom regulator has recommended authorising US-based Viasat to provide...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/trade-market/btrc-allows-viasat-for-in-flight-internet-service-with-2000-annual-fee-1792861796</guid>
+    </item>
+    <item>
+      <title><![CDATA[মৌসুমের প্রথম এল ক্ল্যাসিকোয় ব্যালন ডি’অরের উত্তাপ]]></title>
+      <link>https://bonikbarta.com/sports/9JItlSZ3uiBYYzav/</link>
+      <pubDate>Sat, 24 Oct 2026 19:53:21 GMT</pubDate>
+      <description><![CDATA[ঐতিহ্যগতভাবেই ব্যালন ডি’অর পুরস্কার অনুষ্ঠান হয় প্যারিসে। এ প্রথম লন্ডনে বসছে ব্যালন ডি’অর নাইট।]]></description>
+      <guid isPermaLink="false">https://bonikbarta.com/sports/9JItlSZ3uiBYYzav/</guid>
     </item>
     <item>
       <title><![CDATA[টার্গেট ডিসেম্বর রাজনীতিআতঙ্ক ছড়াচ্ছে কারা]]></title>
@@ -7060,13 +7067,6 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[TEHRAN, Iran, Oct 21 (AFP): Iran's security chief Mohsen Rezaei...]]></description>
       <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/world/iran-security-chief-rejects-moving-enriched-uranium-out-of-country-1792600569</guid>
-    </item>
-    <item>
-      <title><![CDATA[Sudan gold miners found 'in pieces' after Egypt border airstrike]]></title>
-      <link>https://today.thefinancialexpress.com.bd/world/sudan-gold-miners-found-in-pieces-after-egypt-border-airstrike-1792600586</link>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[WAD AL ULAYWAH, Sudan, Oct 21 (AFP): Days after an...]]></description>
-      <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/world/sudan-gold-miners-found-in-pieces-after-egypt-border-airstrike-1792600586</guid>
     </item>
   </channel>
 </rss>
